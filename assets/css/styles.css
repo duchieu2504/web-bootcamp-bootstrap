@@ -1,0 +1,35 @@
+.news-input {
+  max-width: 75%;
+}
+
+.card-icon {
+  transform: scale(1.5);
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+.btn-out-line {
+  border-radius: 24px;
+}
+
+.btn-out-line:focus {
+  border-color: transparent;
+  box-shadow: none;
+}
+
+.image-user {
+  border-radius: 50%;
+}
+
+.border-radius-user {
+  border-radius: 10px;
+}
+
+#map {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+/*# sourceMappingURL=styles.css.map */
